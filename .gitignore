@@ -1,3 +1,8 @@
-*.ospx
-exec.log
 bdd-log.xml
+*.ospx
+*.orig
+*.log
+ignore/**
+tests.xml
+.vscode/**
+**/*_autodoc/**
